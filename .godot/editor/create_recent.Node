@@ -1,0 +1,6 @@
+CollisionShape3D
+CharacterBody3D
+NavigationAgent3D
+AnimationTree
+Node3D
+NavigationRegion3D

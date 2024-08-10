@@ -1,0 +1,7 @@
+res://Scripts/PlayerController.gd
+res://Scenes/enemy.tscn
+res://Scenes/level_1.tscn
+res://Scripts/Level1.gd
+res://Scripts/Enemy.gd
+res://Scenes/main.tscn
+res://Scenes/player.tscn
